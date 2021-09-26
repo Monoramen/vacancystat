@@ -1,0 +1,2 @@
+# vacancystat
+vacancy statistic
